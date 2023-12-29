@@ -1,6 +1,6 @@
-# Hi there! <img src="https://c.tenor.com/eYRNL1In-ooAAAAM/namaste-covid.gif" width="50px">
+# Hi there! <img src="https://c.tenor.com/eYRNL1In-ooAAAAM/namaste-covid.gif" width="50px"><h1 align="center">, I'm Sorubaraj</h1>
 
-<h1 align="center">Hi 👋, I'm Sorubaraj</h1>
+
 <br>
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=435&lines=I'm +a+Full+stack+Developer;Always+a+learner;Never+Stop+Learning;" alt="Typing SVG" /></a>

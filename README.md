@@ -1,4 +1,4 @@
-# Hi there! <img src="https://c.tenor.com/eYRNL1In-ooAAAAM/namaste-covid.gif" width="50px"><h1 align="center">, I'm Sorubaraj</h1>
+<h1 align="center"> Hi there! <img src="https://c.tenor.com/eYRNL1In-ooAAAAM/namaste-covid.gif" width="50px">, I'm Sorubaraj <h1></h1>
 
 
 <br>

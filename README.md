@@ -1,6 +1,13 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Sorubaraj</h1>
+<br>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=435&lines=I'm +a+Full+stack+Developer;I'm+an+Undergraduate;Always+a+learner;Never+Stop+Learning;" alt="Typing SVG" /></a>
+</div> 
+<br>
+
+
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soruba06&label=Profile%20views&color=0e75b6&style=flat" alt="soruba06" /> </p>

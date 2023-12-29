@@ -6,7 +6,10 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=435&lines=I'm +a+Full+stack+Developer;I'm+a+software+Engineering+Undergraduate;Always+a+learner;Never+Stop+Learning;" alt="Typing SVG" /></a>
 </div> 
 <br>
-<h3 align="center">A passionate full stack developer from Sri Lanka</h3>
+### 🚀 About Me
+
+🎓 I am Sorubaraj R currently pursuing Bsc. Honours in Software Engineering in [Sabaragamuwa University of Sri Lanka](https://www.sab.ac.lk/). Also Im very much interested versatlity in computing.
+
 - 🌱 I’m currently learning **HTML,CSS,JS,Python,My SQL**
 
 - 💬 Ask me about **React JS,Mongodb,Django**
